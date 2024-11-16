@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 20px;
+    align-items: center;
+}
+
+#menu{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+#menu2{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.invisible{
+    width: 200px;
+}
